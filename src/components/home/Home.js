@@ -27,12 +27,13 @@ function Home() {
           </a>
         </header>
 
-        <p className="section-foca__text">
+        {/* <p className="section-foca__text">
           Monachus monachus o mas conocida como la foca monje del mediterráneo o
           foca fraile mediterránea es una especie de mamifero pinnípedo de la
           familia de los focidos, una de las más raras que existen. Esta foca
           habito las costas de campeche.
-        </p>
+        </p> */}
+        <p>Modificaciones</p>
       </section>
 
       <section className="section-animals">
